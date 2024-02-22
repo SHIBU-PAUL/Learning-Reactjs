@@ -1,9 +1,11 @@
-import MyComponent from "./MyComponent"
+import Stopwatch from "./Stopwatch"
 
 const App = () => {
+
+
   return (
     <div>
-      <MyComponent/>
+      <Stopwatch/>
     </div>
   )
 }
